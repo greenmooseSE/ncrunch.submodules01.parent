@@ -1,0 +1,3 @@
+[submodule "submodules/module01"]
+	path = submodules/module01
+	url = https://github.com/greenmooseSE/ncrunch.submodules01.module01.git
